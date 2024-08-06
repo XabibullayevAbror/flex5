@@ -1,0 +1,71 @@
+h1{
+     text-align: center;
+}
+
+b{
+     color: yellow;
+}
+
+body{
+     background-color: rgb(134, 68, 68);
+}
+
+header{
+      display: flex;
+      align-items: center;
+      justify-content: space-around;
+}
+
+.card{
+     border: 2px solid black;
+     width: 300px;
+     height: 300px;
+     background-color: black;
+     color: white;
+     text-align: center;
+}
+
+.car{
+     border: 2px solid black;
+     width: 300px;
+     height: 300px;
+     background-color: black;
+     color: white;
+     text-align: center;
+}
+
+.moshina{
+     border: 2px solid black;
+     width: 300px;
+     height: 300px;
+     background-color: black;
+     color: white;
+     text-align: center;
+}
+
+.salom{
+     border: 2px solid black;
+     width: 300px;
+     height: 300px;
+     background-color: black;
+     color: white;
+     text-align: center;
+}
+
+.hi{
+     border: 2px solid black;
+     width: 300px;
+     height: 300px;
+     background-color: black;
+     color: white;
+     text-align: center;
+}
+
+.teamo{
+     border: 2px solid black;
+     width: 300px;
+     height: 300px;
+     background-color: black;
+     color: white;
+     text-align: center;
+}
